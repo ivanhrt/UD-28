@@ -1,0 +1,26 @@
+.box {
+    width: fit-content;
+}
+h1 {
+    background-color: yellow;
+    font-size: x-large;
+}
+.blau {
+    color: rgb(43, 73, 164);
+}
+.cursiva {
+    font-style: italic;
+}
+h2 {
+    margin: 0;
+    font-size: 40px;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+ul{
+    text-indent: 0px;
+    list-style-type: none;
+}

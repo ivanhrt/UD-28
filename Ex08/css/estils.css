@@ -1,0 +1,42 @@
+html {
+    font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(55, 173, 55);
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+h3 {
+    color: peru;
+}
+
+.verd {
+    color: mediumseagreen;
+    letter-spacing: 6px;
+}
+
+.taronja {
+    color: peru;
+    letter-spacing: 6px;
+}
+
+div {
+    border: #d9d9d9 1px solid;
+    padding: 15px;
+}
+
+hr {
+    margin-top: 0px;
+    border-top: 1px;
+}
