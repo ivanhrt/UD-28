@@ -19,7 +19,7 @@ Ejercicio 6
 https://ivanhrt.github.io/UD-28/Ex06/index.html
 
 Ejercicio 7
-https://ivanhrt.github.io/UD-28/Ex01/index.html
+https://ivanhrt.github.io/UD-28/Ex07/index.html
 
 Ejercicio 8
 https://ivanhrt.github.io/UD-28/Ex08/index.html
